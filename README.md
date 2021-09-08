@@ -6,6 +6,5 @@
 
 ## heroku
 
-![heroku](https://arep-parcial01.herokuapp.com/)
-![heroku](https://git.heroku.com/arep-parcial01.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://arep-parcial01.herokuapp.com/clima?lugar=london)
 
