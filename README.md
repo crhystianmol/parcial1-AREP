@@ -7,5 +7,5 @@
 ## heroku
 
 ![heroku](https://arep-parcial01.herokuapp.com/)
-
+![heroku](https://git.heroku.com/arep-parcial01.git)
 
